@@ -3,13 +3,13 @@
 I'm Jenn, a self-taught front end web developer located in Bay Area, California.
 
 ## ABOUT ME
----
+
 🎓 I have a B.S. in Applied and Computational Mathematics<br/>
 🔭 I'm currently working on Reactjs projects<br/>
 🎮 I love video games and building computers<br/>
 
 ## TECHNOLOGIES
----
+
 ### Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
