@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B9C5EF&size=20&duration=6000&vCenter=true&multiline=true&width=400&height=300&lines=console.log(%22Hi+there%2C+I'm+Jenn%22)+)](https://git.io/typing-svg)
-<a href="https://www.freepik.com/pch-vector"><img src="https://user-images.githubusercontent.com/90587567/155905290-3386753f-a89d-4b66-9701-d14c324d4818.png" alt="Female designer vector illustration by pch-vector" /></a>
+<a href="https://www.freepik.com/pch-vector"><img src="https://user-images.githubusercontent.com/90587567/155905290-3386753f-a89d-4b66-9701-d14c324d4818.png" alt="Female designer vector illustration by pch-vector" width="400"/></a>
 <!-- [![Female_designer_working_late_in_room_flat_vector_illustration-removebg-preview](https://user-images.githubusercontent.com/90587567/155905290-3386753f-a89d-4b66-9701-d14c324d4818.png)](https://www.freepik.com/pch-vector) -->
 
 ```javascript
