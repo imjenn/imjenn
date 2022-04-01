@@ -8,7 +8,8 @@ const jenn = {
   location: "San Francisco, CA",
   degree: "Applied Mathematics",
   code: [Javascript, Python, Java, HTML, CSS],
-  frameworks: [React, Node, Express, Springboot, Flask],
+  frameworks: [React, Express, Spring, Flask],
+  learning: [Sails, Redux],
   databases: [MongoDB, MySQL],
   hobbies: ["video games", "pc building", "occasional naps"]
 }
