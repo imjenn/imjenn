@@ -5,10 +5,10 @@
 ```javascript
 const jenn = {
   title: "Full Stack Developer",
-  location: "San Francisco, CA",
+  location: "San Jose, CA",
   degree: "Applied Mathematics",
-  code: [Javascript, Python, Java, HTML, CSS],
-  frameworks: [React, Express, Spring, Flask],
+  code: [Javascript, Typescript, Python, Java],
+  frameworks: [React, Express, Flask, Django],
   learning: [Sails, Redux],
   databases: [MongoDB, MySQL],
   hobbies: ["video games", "pc building", "occasional naps"]
